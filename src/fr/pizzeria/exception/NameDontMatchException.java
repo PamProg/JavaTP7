@@ -1,4 +1,4 @@
-package fr.pizzeria.ihm;
+package fr.pizzeria.exception;
 
 @SuppressWarnings("serial")
 public class NameDontMatchException extends Exception {
